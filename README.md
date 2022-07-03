@@ -6,7 +6,7 @@
 
 ## Live Code for Laptop
 
-Link: https://github.com/GIJOSC
+Link: https://my-portfolio-gijosc.vercel.app/
 
 
 
